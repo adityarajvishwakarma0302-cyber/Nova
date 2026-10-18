@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSetu AI",
+  "description": "Multilingual Hospital Management and District Health Intelligence Platform connecting PHCs, CHCs, and District Hospitals with atomic transactional inventory, bed management, and AI resource redistribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
